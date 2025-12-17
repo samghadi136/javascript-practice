@@ -1,3 +1,13 @@
+/*
+Day 1 – JavaScript Fundamentals
+
+This file covers the basics of JavaScript including variables, data types,
+and objects. It demonstrates how to declare variables, store different types
+of data, and work with key–value pairs using objects.
+*/
+
+//Start
+
 // Give alert Message in Javascript
 alert("Welcome to Javascript");
 
